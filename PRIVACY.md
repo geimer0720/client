@@ -7,8 +7,8 @@ Globus Lite (`client.globus.digital.lite`) — VPN-клиент: он подкл
 У приложения нет своих серверов, аккаунтов, рекламы, аналитики и отчётов
 о сбоях. Разработчик не получает от приложения никаких данных.
 
-**Разработчик:** [укажите разработчика]  
-**Связь по вопросам конфиденциальности:** [укажите e-mail], Telegram
+**Разработчик:** Ravid  
+**Связь по вопросам конфиденциальности:** [ravidmrzhnvpub@proton.me](mailto:ravidmrzhnvpub@proton.me), Telegram
 [@vpnglobussupport](https://t.me/vpnglobussupport)
 
 ## Какие данные обрабатывает приложение
@@ -118,8 +118,8 @@ device to VPN servers from a subscription the user adds themselves. The app
 has no servers, accounts, ads, analytics or crash reporting of its own. The
 developer receives no data from the app.
 
-**Developer:** [developer name]  
-**Privacy contact:** [e-mail], Telegram
+**Developer:** Ravid  
+**Privacy contact:** [ravidmrzhnvpub@proton.me](mailto:ravidmrzhnvpub@proton.me), Telegram
 [@vpnglobussupport](https://t.me/vpnglobussupport)
 
 ## Data the app handles
